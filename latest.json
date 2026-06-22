@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Ctrl+Alt+S: seçili kartın şifresini VM'e yazar (ESM login için)"
+  "notes": "Şifre yazma Unicode SendInput'a geçti (# @ ve TR karakterler artık yazılıyor)"
 }
