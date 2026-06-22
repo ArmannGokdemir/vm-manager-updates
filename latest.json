@@ -1,5 +1,5 @@
 {
-  "version": "1.6.2",
+  "version": "1.7.0",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Başlıkta sürüm rozeti; Outlook/Teams butonları linki kopyalar"
+  "notes": "Enhanced Session (host↔VM pano paylaşımı); karttaki butona basınca kart seçilir"
 }
