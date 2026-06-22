@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.9.0",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Şifre yazma Unicode SendInput'a geçti (# @ ve TR karakterler artık yazılıyor)"
+  "notes": "Kartta VM ekranını aç (VMConnect) butonu"
 }
