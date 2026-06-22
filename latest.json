@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Kartta VM ekranını aç (VMConnect) butonu"
+  "notes": "Ctrl+Alt+E mail / Ctrl+Alt+S şifre (VM penceresini öne getirir); Mail/Mesaj üret butonları"
 }
