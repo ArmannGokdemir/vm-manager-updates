@@ -1,5 +1,5 @@
 {
-  "version": "1.10.1",
+  "version": "1.11.0",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "VM ekranını aç butonu şifreyi otomatik panoya kopyalar"
+  "notes": "Giriş+Enter, Sıradaki VM (Ctrl+Alt+N), hedef-kopya kısayolları, panel gizleme"
 }
