@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Kullanıcı Ekle ayrı ekran, liste spoiler, Outlook/Teams açar, kopyalama düzeltildi"
+  "notes": "Outlook/Teams butonları linki kopyalar (açmaz)"
 }
