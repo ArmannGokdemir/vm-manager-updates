@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.10.1",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Ctrl+Alt+E mail / Ctrl+Alt+S şifre (VM penceresini öne getirir); Mail/Mesaj üret butonları"
+  "notes": "VM ekranını aç butonu şifreyi otomatik panoya kopyalar"
 }
