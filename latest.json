@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.1",
   "url": "https://github.com/ArmannGokdemir/vm-manager-updates/releases/latest/download/VM-Manager.exe",
-  "notes": "Enhanced Session (host↔VM pano paylaşımı); karttaki butona basınca kart seçilir"
+  "notes": "Ctrl+Alt+S: seçili kartın şifresini VM'e yazar (ESM login için)"
 }
